@@ -1,0 +1,62 @@
+[
+  {
+    "id" : 1,
+    "statement" : "What is Jon Snow's real name?",
+    "difficulty" : "easy",
+    "marks" : "1"
+  },
+  {
+    "id" : 2,
+    "statement" : "Who is mother of Jon Snow?",
+    "difficulty" : "easy",
+    "marks" : "2"
+  },
+  {
+    "id" : 3,
+    "statement" : "What is sigil of House Bolton?",
+    "difficulty" : "easy",
+    "marks" : "3"
+  },
+  {
+    "id" : 4,
+    "statement" : "Who killed Joffery Baratheon?",
+    "difficulty" : "easy",
+    "marks" : "3"
+  },
+  {
+    "id" : 5,
+    "statement" : "What is the name of Arya's wolf?",
+    "difficulty" : "medium",
+    "marks" : "2"
+  },
+  {
+    "id" : 6,
+    "statement" : "Where did Daenerys Targaryen and Cersei Lannister meet?",
+    "difficulty" : "medium",
+    "marks" : "3"
+  },
+  {
+    "id" : 7,
+    "statement" : "Who defeated whom in Battle of Whispering Woods?",
+    "difficulty" : "medium",
+    "marks" : "5"
+  },
+  {
+    "id" : 8,
+    "statement" : "Which do you think is best episode of GOT so far? Justify.",
+    "difficulty" : "hard",
+    "marks" : "5"
+  },
+  {
+    "id" : 9,
+    "statement" : "What are motives of Maester Qyburn?",
+    "difficulty" : "hard",
+    "marks" : "7"
+  },
+  {
+    "id" : 10,
+    "statement" : "Why is Night King coming South of the Wall?",
+    "difficulty" : "hard",
+    "marks" : "9"
+  }
+]
